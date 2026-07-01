@@ -27,14 +27,6 @@
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/marufkhanop.bsky.social) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HeyAbyss) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrufx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marufkhanop) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/marufkhanop) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/marufkhanop) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HayAbyss) 
 
 
-## <h3> GitHub Stats:</h3>
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=marufkhanop&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
 ### Donate
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/MarufKhan) 
