@@ -23,27 +23,7 @@
 </div>
 
 ###
-## <h3> Socials:</h3>
-<p align="left">
-<a href="https://twitter.com/marufkhanop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marufkhanop" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marufkhanop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marufkhanop" height="30" width="40" /></a>
-<a href="https://kaggle.com/marufkhanop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marufkhanop" height="30" width="40" /></a>
-<a href="https://fb.com/heyabyss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heyabyss" height="30" width="40" /></a>
-<a href="https://instagram.com/mrufx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrufx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@HayAbyss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hayabyss" height="30" width="40" /></a>
-</p>
-
-
 
 ### Donate
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/MarufKhan) 
   
-
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/marufkhanop/marufkhanop/snake-output/snake.svg" alt="Snake animation" />
-
-###
